@@ -7,14 +7,11 @@ import { Component, OnInit } from '@angular/core';
 })
 export class AngularappComponent implements OnInit {
 
-public name = "Gagan Reddy";
 
   constructor() { }
 
   ngOnInit(): void {
     
   }
-greetuser(){
-  return"hello" + this.name;
-}
+
 }
