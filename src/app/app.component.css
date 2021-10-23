@@ -8,3 +8,14 @@ img{
     margin: 0 auto;
     width: 25%;
 }
+.onInput{
+    display: -moz-box;
+    background-color: aquamarine;
+    
+}
+.error-output {
+margin-left: 10px;
+font-size: 12px;
+font-style: italic;
+color: red;
+}
